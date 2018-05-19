@@ -5,10 +5,10 @@ An Empty Boilerplate for Flask.
 ## Install and create a virtual enviroment.
 To install a virtual enviroment
 **Pip**: 
-...pip install virtualenv
-**Creating the enviroment**
-...virtualenv venv 
-...(venv is just a name. You can name it whatever you want but it's usually standard to call it venv or env)
+pip install virtualenv 
+**Creating the enviroment** 
+virtualenv venv  
+(venv is just a name. You can name it whatever you want but it's usually standard to call it venv or env)
 
 
 ## Activate the virtual enviroment
