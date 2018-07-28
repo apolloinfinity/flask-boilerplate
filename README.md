@@ -15,7 +15,12 @@ virtualenv venv
 
 
 ## Activate the virtual enviroment
-There are two ways to get the app running. On Linux/Mac it's pretty straighfoward because of bash.
-On Windows, it depends on how you have your enviroment set up. I use VSCode with Git Bash. I have used Powershell and the command prompt to run Flask apps before so I will show you how do it.
+Depending if you are using CPython or 
 
 ## Starting your Flask application
+
+
+* exporting enviroment
+* SQL Migrate
+* Flask Migrate
+* How to use the Flask Shell and Flask Shell decorator
